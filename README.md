@@ -1,3 +1,3 @@
 # blog-img
 
-The image hosting for my blog.s
+The image hosting for my blog.
