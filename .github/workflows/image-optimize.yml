@@ -3,7 +3,9 @@ name: Optimize Images
 on:
   push:
     paths:
-      - 'img/**'
+      - 'img/**/**.jpg'
+      - 'img/**/**.jpeg'
+      - 'img/**/**.png'
 
 jobs:
   compress:
