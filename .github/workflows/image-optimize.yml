@@ -4,8 +4,8 @@ on:
   push:
     branches:
       - main
-    paths:
-      - 'img/**/*.{jpg,jpeg,png}'
+    # paths:
+      # - 'img/**/*.{jpg,jpeg,png}'
   workflow_dispatch:
 
 jobs:
